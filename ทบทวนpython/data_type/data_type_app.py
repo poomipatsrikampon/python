@@ -1,0 +1,5 @@
+print("Welcome to arm Shop")
+print("===================")
+print("Apple x",3,30,"THB",3*30,"THB")
+print("Banana   3  30THB 90")
+print("===================")

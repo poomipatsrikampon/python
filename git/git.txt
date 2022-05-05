@@ -1,0 +1,8 @@
+commit การเปลี่ยนแปลง ทำหน้าที่คล้ายกับ comment อธิบายการอัพเดท
+
+
+Master ไฟล์หลัก
+
+Branch copy ของ Master เอาไปแก้ไข เพิ่ม โดยไม่กระทบกับ Master
+
+Merge รวม Branch เข้ากับ Master
